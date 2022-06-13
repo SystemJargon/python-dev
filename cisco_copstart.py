@@ -1,8 +1,21 @@
 # Used in Cisco CallManager Deployments
+
+#
+#   Copyright (c) 2005,2008 Cisco Systems Inc.  All rights
+#   reserved.
+#
+# ######################################################################
+#
+# copstart.py
+#
 # This script will install the firmware and device defaults
 #
 # SYNOPSIS
 # python copstart.py <context> <logfile>
+#
+# created:         2007-10-29
+# author:          Mahesh Gopalakrishna Pai R (mapai@cisco.com)
+# ######################################################################
 
 import os
 import sys
@@ -104,4 +117,6 @@ while 1:
     	exitCode=rc
     
 sys.exit(exitCode)
+
+
 
