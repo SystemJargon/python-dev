@@ -1,10 +1,9 @@
-# python-examples
+This repo contains examples of Python, which may include guides, scripts or other content.
 
-This repo contains examples of Python.
 
 ----
 
-Intro links & About Python
+New to Python? See links below.
 
 https://www.python.org/downloads/
 
