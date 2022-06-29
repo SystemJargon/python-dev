@@ -1,5 +1,4 @@
-This repo contains examples of Python, which may include guides, scripts or other content.
-
+This repo contains examples of Python
 
 ----
 
